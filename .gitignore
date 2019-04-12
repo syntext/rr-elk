@@ -1,0 +1,12 @@
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Docker data
+/data/
+/logs/
+*.zip
